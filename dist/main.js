@@ -1,0 +1,1 @@
+new class{constructor(i,t=!0){this.lenght=i,this.virtical=t}directionSwap(){this.virtical=!this.virtical}};
